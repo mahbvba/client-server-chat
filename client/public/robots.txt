@@ -1,0 +1,4 @@
+// This is to prevent robots from entering the site
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
